@@ -1,435 +1,233 @@
-<h1 align="center">╔═══ ⌬ ═══╗</h1>
+<div align="center">
 
-<h1 align="center">Hi, I'm Aniket Soni 👋</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aniket+Soni;Full-Stack+%2F+Backend+Developer;MERN+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Currently%3A+open_to_work+%3D+true" alt="Typing SVG" />
 
-<h3 align="center">
-  Full-Stack / Backend Developer · MERN · TypeScript · Node.js · PostgreSQL
-</h3>
+<img src="https://komarev.com/ghpvc/?username=AniketSONI264&label=Profile+Views&color=6E40C9&style=flat-square" />
+&nbsp;
+<a href="https://www.linkedin.com/in/ani--ket"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://mjspro.in"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
 
-<p align="center">
-  <code>building systems • breaking bugs • learning continuously</code>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ani--ket">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mjspro.in">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AniketSONI264&label=Profile%20Views&color=6E40C9&style=flat-square" />
-</p>
-
----
-
-## `> whoami`
-
-I'm an **MCA graduate (2025)** and **Full-Stack / Backend Developer** focused on building practical, production-oriented web applications.
-
-My strongest area is backend development — designing APIs, authentication flows, database models, business logic, integrations, and systems that can actually survive beyond a demo.
-
-I enjoy working at the intersection of:
+```yaml
+$ whoami --verbose
+```
 
 ```text
-Frontend
-   ↓
-React / Next.js
-   ↓
-APIs & Business Logic
-   ↓
-Node.js / Express / FastAPI
-   ↓
-PostgreSQL / MongoDB / MySQL
-   ↓
-Docker / CI/CD / Cloud
+┌─[aniket@dev]─[~]
+│
+│  name:      Aniket Soni
+│  role:      Full-Stack / Backend Developer
+│  stack:     Node.js · TypeScript · PostgreSQL · MongoDB · React/Next.js
+│  education: MCA, AKS University (2025) — CGPA 8.12
+│  location:  Satna, Madhya Pradesh, IN
+│  status:    seeking full-time roles · open to relocation
+│  uptime:    shipping since 2023
+│
+└─[$] _
 ```
 
-Currently, I'm pushing deeper into **TypeScript, backend architecture, PostgreSQL, testing, system design, and production engineering** while continuing to build real-world projects.
+<br>
 
-```bash
-$ cat motivation.txt
+## `> cat about.md`
 
-Build → Break → Debug → Refactor → Ship → Repeat
-```
+I build backend systems that are meant to survive past a demo — auth flows that don't leak, APIs that don't fall over, and databases that don't fight you six months later. Frontend when the job calls for it, but backend is where I actually think in my sleep.
 
----
-
-## 🧭 About Me
-
-* 🎓 **MCA — AKS University, Satna (2025)** · CGPA: 8.12
-* 🎓 **B.Sc. Computer Science**
-* 💼 **Full Stack Developer Intern — Site Guru** · Jan–Mar 2025
-* 💼 **Backend Developer Intern — YourLab.in** · Jul–Oct 2024
-* 📍 Satna, Madhya Pradesh, India
-* 🎯 Currently seeking **Full-Stack / Backend / Software Developer** opportunities
-* 🚀 Open to relocation
-* 🧠 Interested in backend architecture, scalable systems, databases, AI-powered applications, and developer tooling
-
----
-
-# ⚡ Tech Stack
-
-### `Languages & Runtime`
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-</p>
-
-### `Frontend`
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
-
-### `Backend & APIs`
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth_2.0-3C4043?style=flat-square&logo=auth0&logoColor=white" />
-</p>
-
-### `Databases`
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-### `Engineering & DevOps`
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
-
-### `Cloud & Deployment`
-
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🧾 LedgerPilot
-
-**Production-minded financial ledger / backend engineering project**
-
-> `TypeScript` · `Node.js` · `PostgreSQL` · `pnpm` · `Docker` · `GitHub Actions`
-
-My latest project, **LedgerPilot**, is being built with a stronger focus on engineering discipline rather than simply shipping another CRUD application.
-
-The project is helping me go deeper into:
-
-* TypeScript-first backend development
-* Relational database design
-* PostgreSQL
-* API architecture
-* Domain/business logic
-* Validation and error handling
-* Testing
-* Code quality and formatting
-* Git workflows
-* CI/CD
-* Production-oriented project structure
+Two internships, three production-adjacent projects, and a growing itch for the "boring" stuff that makes systems reliable: testing, observability, and clean architecture over clever one-liners.
 
 ```text
-ledgerpilot/
-├── application
-├── domain
-├── infrastructure
-├── tests
-└── tooling
-
-              ↓
-
-       Build with intent.
-       Ship with confidence.
+request
+  → router
+  → middleware (auth · validation · rate-limit)
+  → controller
+  → service (business logic)
+  → repository
+  → database
+  ← response
 ```
 
-🔗 **Repository:** [LedgerPilot](https://github.com/AniketSONI264)
+<br>
 
----
-
-## 🛒 MJS PRO
-
-**Multi-vendor e-commerce platform**
-
-A production-oriented e-commerce system handling vendor onboarding, inventory, products, orders, payments and business workflows.
-
-### Highlights
-
-* Multi-vendor architecture
-* Vendor onboarding
-* Product & inventory management
-* Order lifecycle
-* Payment integration with Razorpay
-* Webhook handling
-* Authentication & authorization
-* RBAC
-* Normalized SQL database design
-* 30+ REST API endpoints
-
-🌐 **Live:** [mjspro.in](https://mjspro.in)
-
----
-
-## 🏥 MediSetu
-
-**Telehealth & healthcare platform**
-
-A full-stack healthcare platform connecting patients and healthcare providers through appointment, authentication and consultation workflows.
-
-### Highlights
-
-* Next.js application
-* MongoDB
-* JWT authentication
-* Google OAuth
-* Role-based access
-* Doctor verification workflow
-* Appointment management
-* Admin dashboard
-* REST API architecture
-* Cloudinary-based media handling
-
-🌐 **Live:** [medisetu.vercel.app](https://medisetu.vercel.app)
-
----
-
-## 🤖 DevSense AI
-
-**AI-assisted developer tooling — in progress**
-
-An AI-powered code review / developer productivity platform exploring how LLMs can be combined with asynchronous backend processing and semantic search.
-
-### Exploring
-
-* FastAPI
-* PostgreSQL
-* pgvector
-* Redis
-* Celery
-* OpenAI API
-* Semantic search
-* Background job processing
-* AI-assisted developer workflows
+## `> ls ./experience`
 
 ```text
-Code
- ↓
-Analysis
- ↓
-Async Processing
- ↓
-Semantic Context
- ↓
-AI
- ↓
-Actionable Feedback
+Site Guru/          Full Stack Developer Intern      Jan 2025 – Mar 2025
+YourLab.in/         Backend Developer Intern         Jul 2024 – Oct 2024
+Bharat Intl School/ IT & CS Instructor
 ```
 
----
+<br>
 
-# 🧠 What I'm Currently Working On
+## `> ./stack --show`
+
+<div align="center">
+
+**Languages & Runtime**
+<img src="https://skillicons.dev/icons?i=js,ts,py,nodejs" />
+
+**Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" />
+
+**Backend & Auth**
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postman" />
+
+**Databases**
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+
+**DevOps & Tooling**
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,vercel,render" />
+
+</div>
+
+<br>
+
+## `> ./projects --featured`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 LedgerPilot
+`in progress` · engineering-first rebuild
 
 ```diff
-+ TypeScript
-+ PostgreSQL
-+ Backend Architecture
-+ API Design
-+ Testing & Code Quality
-+ Docker
-+ CI/CD
-+ System Design
-+ AI-powered applications
-+ Production Engineering
++ TypeScript-first backend
++ PostgreSQL, relational modeling
++ Layered architecture (domain/infra/app)
++ CI/CD via GitHub Actions
++ Testing & validation discipline
 ```
 
-I'm deliberately moving beyond:
+A deliberate shift from "does it work" to "is it clean, tested, and deployable." Structured like software meant to be maintained, not just shipped once.
+
+`TypeScript` `PostgreSQL` `Docker` `pnpm` `GitHub Actions`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 MJS PRO
+[`live →`](https://mjspro.in) · multi-vendor e-commerce
+
+```diff
++ Vendor onboarding & inventory system
++ 30+ REST endpoints
++ Razorpay payments + webhooks
++ RBAC + normalized SQL schema
+```
+
+Production-facing marketplace handling real vendor and order workflows end to end, not a cart demo.
+
+`Node.js` `Express` `MySQL` `RBAC`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 MediSetu
+[`live →`](https://medisetu.vercel.app) · telehealth platform
+
+```diff
++ JWT + Google OAuth
++ Doctor verification workflow
++ Appointment scheduling engine
++ Admin dashboard
+```
+
+Patient-provider platform covering the full loop: auth, booking, consultation, and admin oversight.
+
+`Next.js` `MongoDB` `OAuth 2.0`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 DevSense AI
+`in progress` · AI-assisted code review
+
+```diff
++ FastAPI + Celery + Redis (async jobs)
++ pgvector for semantic search
++ OpenAI API integration
++ Background processing pipeline
+```
+
+Exploring how LLM reasoning combines with async infra to give devs actionable, context-aware feedback.
+
+`FastAPI` `pgvector` `Celery` `OpenAI API`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `> tail -f currently_learning.log`
 
 ```text
-"Can I build this?"
+[backend]     advanced TypeScript, API architecture, auth patterns
+[databases]   PostgreSQL internals, indexing, query optimization
+[systems]     system design, clean architecture, distributed basics
+[practice]    JS-based DSA for technical interviews
 ```
 
-toward:
+<br>
+
+## `> git log --oneline --philosophy`
 
 ```text
-"Can I build this cleanly,
-test it properly,
-deploy it reliably,
-and maintain it six months from now?"
+* prefer boring, readable code over clever abstractions
+* premature abstraction is technical debt in a suit
+* if it's not tested, it's a hypothesis
+* ship it, then make it worth maintaining
 ```
 
-That distinction matters. A lot.
+<br>
 
----
+## `> ./github-stats --render`
 
-# 📚 Currently Learning
+<div align="center">
 
-### Backend Engineering
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AniketSONI264&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketSONI264&layout=compact&theme=tokyonight&hide_border=true" />
 
-* Advanced TypeScript
-* API architecture
-* Backend scalability
-* Authentication & authorization
-* Error handling & observability
-* Testing strategies
-* Production engineering
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketSONI264&theme=tokyonight&hide_border=true" />
 
-### Databases
+<img src="https://github-profile-trophy.vercel.app/?username=AniketSONI264&theme=tokyonight&no-frame=true&row=1&column=6" />
 
-* Advanced SQL
-* PostgreSQL
-* Query optimization
-* Indexing
-* Transactions
-* Data modeling
-* Database performance
+</div>
 
-### Software Engineering
+<br>
 
-* System design
-* SOLID principles
-* Design patterns
-* Clean architecture
-* Distributed systems fundamentals
-* CI/CD
-* Cloud deployment
-
-### Problem Solving
-
-* Data Structures & Algorithms
-* JavaScript-based DSA
-* Technical interview problem solving
-
----
-
-# 🧪 Developer Philosophy
+## `> cat certifications.txt`
 
 ```text
-┌──────────────────────────────────────────┐
-│              ENGINEERING LOOP             │
-├──────────────────────────────────────────┤
-│                                          │
-│   Understand → Design → Build            │
-│          ↓                               │
-│       Test → Debug → Refactor            │
-│          ↓                               │
-│        Deploy → Monitor → Improve        │
-│                                          │
-└──────────────────────────────────────────┘
+[x] SQL (Intermediate)                        — HackerRank
+[x] Advanced Java                              — Anudip Foundation
+[x] JavaScript                                 — Scaler Topics
+[x] Software Development Job Simulation        — Datacom (Forage)
 ```
 
-I prefer **simple systems that are understandable and maintainable** over unnecessarily clever code.
+<br>
 
-> "Premature abstraction is just technical debt wearing a suit."
+## `> ./connect --with-me`
 
-And yes, I've probably written the abstraction anyway.
-Then regretted it.
-Then deleted it. 😌
+<div align="center">
 
----
+Looking for **Full-Stack / Backend Developer** roles — teams that value clean architecture and actually care about maintainability, not just velocity.
 
+<a href="https://www.linkedin.com/in/ani--ket"><img src="https://img.shields.io/badge/Let's_talk_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://mjspro.in"><img src="https://img.shields.io/badge/View_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
----
-
-# 🏆 Certifications
-
-* **SQL (Intermediate)** — HackerRank
-* **Advanced Java** — Anudip Foundation
-* **JavaScript** — Scaler Topics
-* **Software Development Job Simulation** — Datacom · Forage
-
----
-
-# 🔭 Beyond Code
-
-I enjoy learning about:
-
-🌌 Space & astronomy
-🌊 Oceans & marine ecosystems
-🌲 Forests & natural systems
-🧠 AI & emerging technology
-⚙️ Software architecture
-🔬 Science & engineering
-
-Because curiosity is basically the original debugging tool.
-
----
-
-# 🤝 Let's Connect
-
-I'm currently looking for opportunities where I can contribute as a:
+<br><br>
 
 ```text
-Full-Stack Developer
-Backend Developer
-Software Developer
+$ git commit -m "keep building"
+status: STILL_BUILDING...
 ```
 
-I'm particularly interested in teams that care about **good engineering, meaningful products, clean architecture, and continuous learning**.
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ani--ket">
-  <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://mjspro.in">
-  <img src="https://img.shields.io/badge/Visit_my_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</p>
-
-<p align="center">
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   $ git commit -m "keep building"            │
-│                                              │
-│   ✓ curiosity                               │
-│   ✓ consistency                             │
-│   ✓ clean code                              │
-│   ✓ caffeine                                │
-│                                              │
-│   status: STILL_BUILDING...                 │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-</p>
-
-<p align="center">
-  <i>「Code is not just about making things work — it's about making them worth maintaining.」</i>
-</p>
-
-<p align="center">
-  <code>01001000 01101001 👾</code>
-</p>
+</div>
