@@ -8,7 +8,7 @@
 &nbsp;
 <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<a href="https://mjspro.in"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://medisetu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </div>
 
