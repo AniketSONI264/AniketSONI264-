@@ -221,7 +221,9 @@ Exploring how LLM reasoning combines with async infra to give devs actionable, c
 Looking for **Full-Stack / Backend Developer** roles — teams that value clean architecture and actually care about maintainability, not just velocity.
 
 <a href="https://www.linkedin.com/in/ani--ket"><img src="https://img.shields.io/badge/Let's_talk_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://mjspro.in"><img src="https://img.shields.io/badge/View_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://medisetu.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+
 
 <br><br>
 
